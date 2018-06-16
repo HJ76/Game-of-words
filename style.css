@@ -1,0 +1,49 @@
+#game
+{
+	border-radius: 100px;
+	background-color: rgb(183, 163, 165);
+	height: 600px;
+	width: 1200px;
+	margin-left: 70px;
+}
+body
+{
+	background-color: rgb(140, 65, 73);
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+h1
+{
+	padding-top: 30px;
+	text-align: center;
+	font-size: 50px;
+}
+.divv
+{
+	text-align: center;
+	padding: 20px;
+	font-size: 20px;
+}
+#display
+{
+	height: 120px;
+	width: 1100px;
+	margin-left: 35px;
+	padding-top: 20px;
+	background-color: rgb(102, 82, 84);
+	text-align: center;
+	color:white;
+	font-size: 50px;
+	border-radius: 20px;
+
+}
+#text1
+{
+	font-size: 18px;
+}
+#buttons 
+{
+	padding-top: 30px;
+	font-size: 17px;
+	margin-left: 40px;
+}
